@@ -91,4 +91,4 @@ docker run xai-system python deployment_test.py
 MIT License. Free for educational and professional use.
 
 ---
-*Built with ❤️ by Antigravity*
+*Built with ❤️ by Troff Junkie*
